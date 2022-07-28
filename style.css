@@ -7,3 +7,25 @@
     margin-left: 500px;
     margin-top: 80px;
 }
+
+/* icons */
+.icon-margin {
+    margin-top: 100px;
+    height: 400px;
+}
+
+.fa-facebook {
+    color: white;
+}
+
+.fa-twitter {
+    color: white;
+}
+
+.fa-whatsapp {
+    color: white;
+}
+
+.fa-facebook-messenger {
+    color: white;
+}
