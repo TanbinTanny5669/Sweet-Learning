@@ -5,7 +5,12 @@
 
 .button-class {
     margin-left: 500px;
-    margin-top: 80px;
+    margin-top: 50px;
+}
+
+/* images-brightness */
+.brightness {
+    filter: brightness(50%);
 }
 
 /* icons */
@@ -28,4 +33,17 @@
 
 .fa-facebook-messenger {
     color: white;
+}
+
+/* media-querry */
+@media only screen and (max-width:576px) {
+    .media {
+        display: block;
+        flex-direction: column;
+    }
+
+    .img-width {
+        width: 100%;
+    }
+
 }
